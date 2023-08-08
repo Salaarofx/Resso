@@ -4,7 +4,7 @@ from Royalkifeelings.callmusic.config import API_HASH, API_ID, BOT_TOKEN, OWNER_
 from Royalkifeelings.plugins import ALL_PLUGINS
 
 bot = Client(
-    "Royalkifeelings",
+    "Secret_faction",
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
@@ -24,7 +24,7 @@ user = PyTgCalls(
 
 call_py = PyTgCalls(Royalboyamit, overload_quiet_mode=True)
 
-OWNER_NAME = "Royal_boy_amit"
+OWNER_NAME = "Real_Avinash_Singh"
 F_OWNER = OWNER_ID[0]
 
 with Client("Royalkifeelings", API_ID, API_HASH, bot_token=BOT_TOKEN) as app:
