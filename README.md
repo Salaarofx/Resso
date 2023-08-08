@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/Secret_faction"><img src="https://graph.org/file/81cc33ee67674e4724994.jpg"></a></p>
+<p align="center"><a href="https://t.me/Secret_faction"><img src="https://graph.org/file/7ede43dd77df022cca262.jpg"></a></p>
 <p align="center">
     <br><b>YT Music Bot is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
